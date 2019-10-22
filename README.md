@@ -4,4 +4,3 @@ This is intended to house some of my research projects on economics and banking.
 See for example Gorton and Metrick 2009 for a look at this episode. https://www.nber.org/papers/w15223
 
 
-*** I am having trouble downloading the data I was using from the Chicago Fed.... Working to resolve this
